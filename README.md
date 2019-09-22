@@ -1,4 +1,4 @@
-# Henrew Sentences Similarity
+# Hebrew Sentences Similarity
 This Framework enables, three type of model training, similarity evaluation, two test-sets validation with visualization and datasets embeding visualization for a given model.
 
 ## One-Time Setup
